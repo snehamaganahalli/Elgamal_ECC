@@ -17,7 +17,7 @@
 
 3) Compile the code
 
-  gcc elgamal_ecc.c -lssl -lgmp
+  gcc elgamal_ecc.c -lm -lgmp
 
 4) Run
 
